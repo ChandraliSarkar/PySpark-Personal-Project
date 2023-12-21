@@ -1,3 +1,5 @@
+This folder contains the code for basic ingestion using Spark API.
+
 ARCHITECTURE OF SPARK DATAFRAME
 ![image](https://github.com/ChandraliSarkar/PySpark-Personal-Project/assets/91789144/2c2efbcd-4bcc-43bb-9b0a-2bbd46fec5aa)
 
